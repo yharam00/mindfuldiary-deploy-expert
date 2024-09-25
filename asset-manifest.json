@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mindfuldiary-deploy-expert/static/css/main.da303129.css",
+    "main.js": "/mindfuldiary-deploy-expert/static/js/main.9de5eb82.js",
+    "static/media/Pretendard-Regular.ttf": "/mindfuldiary-deploy-expert/static/media/Pretendard-Regular.7c20008ec8c0968904c4.ttf",
+    "static/media/Pretendard-Regular.otf": "/mindfuldiary-deploy-expert/static/media/Pretendard-Regular.de88013f2ea98a04dede.otf",
+    "static/media/assistant.png": "/mindfuldiary-deploy-expert/static/media/assistant.368c8518f3d489f279b2.png",
+    "index.html": "/mindfuldiary-deploy-expert/index.html",
+    "main.da303129.css.map": "/mindfuldiary-deploy-expert/static/css/main.da303129.css.map",
+    "main.9de5eb82.js.map": "/mindfuldiary-deploy-expert/static/js/main.9de5eb82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da303129.css",
+    "static/js/main.9de5eb82.js"
+  ]
+}
